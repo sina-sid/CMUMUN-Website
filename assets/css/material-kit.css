@@ -1995,7 +1995,7 @@ legend {
   padding-top: 15px;
   padding-bottom: 15px;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   border-radius: 3px;
 }
@@ -2005,8 +2005,8 @@ legend {
 }
 .navbar .navbar-nav > li > a .material-icons,
 .navbar .navbar-nav > li > a .fa {
-  font-size: 20px;
-  max-width: 20px;
+  font-size: 24px;
+  max-width: 24px;
 }
 .navbar .navbar-nav > li > a:not(.btn-just-icon) .fa {
   position: relative;
@@ -3664,7 +3664,7 @@ h2.title {
 }
 
 .landing-page .header {
-  height: 100vh;
+  height: 70vh;
 }
 .landing-page .header .container {
   padding-top: 26vh;
@@ -3756,6 +3756,8 @@ h2.title {
     margin-left: 10px;
     margin-right: 10px;
   }
+
+  .material-icons.md-36 { font-size: 36px; }
 }
 
 /*# sourceMappingURL=material-kit.css.map */
